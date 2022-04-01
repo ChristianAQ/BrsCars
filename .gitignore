@@ -1,0 +1,12 @@
+
+# Virutal Enviroments
+venv/
+
+# DataBases files
+db.sqlite3
+
+# Pycharm stuff
+.idea/
+
+# Python bytecode files
+*.pyc
